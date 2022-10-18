@@ -5,3 +5,18 @@ This repository contains our own version of the function printf, originally incl
 
 ## Introduction
 Emulates the operation of the printf function which delivers an output according to a format composed by zero or more directives and conversion specifiers:
+
+Specifier | Input example | Output example
+| --- | --- | --- |
+%c | "Printing a char: [%c]\n", 'X' | Printing a char: [X]
+%s | "Printing a string: [%s]\n", "Hello, World" | Printing a string: [Hello, World]
+%d or %i | "Printing a number: [%i]\n", 386 | Printing a number: [386]
+%% | "Printing a percent sign: [%%]\n", % | Printing a percent sign: [%]
+
+![](https://pbs.twimg.com/media/Ewq0PXyWEAIp3Z8?format=jpg&name=small)
+
+## Files in this repository
+
+```c
+gcc -Wall -Werror -Wextra -pedantic *.c
+````
