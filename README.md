@@ -20,3 +20,60 @@ Specifier | Input example | Output example
 ```c
 gcc -Wall -Werror -Wextra -pedantic *.c
 ````
+
+## Examples to use it
+
+#include "main.h"
+    /**
+     * main - main function
+     * Return: always 0
+    **/
+    int main()
+    {
+        _printf("Hello World!/n");
+        return (0);
+    }
+
+    output: Hello World!
+---
+
+    #include "main.h"
+    /**
+     * main - main function
+     * Return: always 0
+    **/
+    int main()
+    {
+            char string[7] = "World!"
+
+        _printf("Hello %s/n", string);
+        return (0);
+    }
+
+    output: Hello World!
+---
+
+
+    #include "main.h"
+    /**
+     * main - main function
+     * Return: always 0
+    **/
+    int main()
+    {
+            int num = 1006
+
+        _printf("This is a number: %d/n", num);
+        return (0);
+    }
+
+    output: This is a number: 1006
+    
+    ## Environment
+ This project has been tested on `Ubuntu 20.04 LTS`
+
+## Authors
+
+* **Sam-Oladapo Ebenezer-** [github](https://github.com/code-vibe) - mrsamoladapo@gmail.com
+* **Gbenga Elegbede** [github](https://github.com/serena0012) - jonathangnenga@gmail.com
+
