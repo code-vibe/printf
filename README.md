@@ -74,7 +74,6 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 
 ## Authors
 
-
 * **Sam-Oladapo Ebenezer-** [github](https://github.com/code-vibe) - mrsamoladapo@gmail.com
 * **Gbenga Elegbede** [github](https://github.com/serena0012) - jonathangnenga@gmail.com
 
