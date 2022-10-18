@@ -71,6 +71,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
 
     ## Environment
  This project has been tested on `Ubuntu 20.04 LTS`
+ 
 ## Authors
 
 * **Sam-Oladapo Ebenezer-** [github](https://github.com/code-vibe) - mrsamoladapo@gmail.com
