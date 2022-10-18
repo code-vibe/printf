@@ -1,3 +1,8 @@
+/*
+* File: get_size.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 /**

@@ -1,3 +1,8 @@
+/*
+* File: Functions1.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 /************************* PRINT UNSIGNED NUMBER *************************/

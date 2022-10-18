@@ -1,3 +1,8 @@
+/*
+* File: get_width.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 /**

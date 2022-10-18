@@ -1,3 +1,8 @@
+/*
+* File: Functions.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 /************************* PRINT CHAR *************************/

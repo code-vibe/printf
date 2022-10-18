@@ -1,3 +1,8 @@
+/*
+* File: write_handlers.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 /************************* WRITE HANDLE *************************/

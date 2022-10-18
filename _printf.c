@@ -1,3 +1,8 @@
+/*
+* File: _printf.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 void print_buffer(char buffer[], int *buff_ind);

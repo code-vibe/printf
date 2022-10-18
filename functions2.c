@@ -1,3 +1,8 @@
+/*
+* File: Functions2.c
+* Auth: Sam-Oladapo EBenezer & Gbenga Elegbede
+*/
+
 #include "main.h"
 
 /****************** PRINT POINTER ******************/
