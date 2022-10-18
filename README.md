@@ -68,7 +68,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c
     }
 
     output: This is a number: 1006
-    
+
     ## Environment
  This project has been tested on `Ubuntu 20.04 LTS`
 
