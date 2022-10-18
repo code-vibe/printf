@@ -1,7 +1,7 @@
 # Creating our own version of ' 0x11.C - printf'
 This repository contains our own version of the function printf, originally included in the library stdio.h.
 
-![](https://www.canva.com/design/DAFPZI5bBmY/hpJ1oN2mG-uYUXOIgFQ5rA/view?utm_content=DAFPZI5bBmY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![](https://unsplash.com/photos/KPAQpJYzH0Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 ## Introduction
 Emulates the operation of the printf function which delivers an output according to a format composed by zero or more directives and conversion specifiers:
