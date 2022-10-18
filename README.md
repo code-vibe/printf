@@ -15,3 +15,8 @@ Specifier | Input example | Output example
 
 ![](https://pbs.twimg.com/media/Ewq0PXyWEAIp3Z8?format=jpg&name=small)
 
+## Files in this repository
+
+```c
+gcc -Wall -Werror -Wextra -pedantic *.c
+````
